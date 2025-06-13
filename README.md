@@ -1,4 +1,5 @@
-# -
+# transmission lines object detection - yolo11 model weights
+
 基于yolo11s的输电线线路异物识别模型权重。
 
 训练数据包括：
