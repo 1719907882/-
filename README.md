@@ -10,7 +10,7 @@
 
 使用方法：
 
-利用environment.yml配置环境，启动conda环境
+利用env.yml配置环境，启动conda环境
 
 cd到模型权重路径，使用如下命令进行预测
 
